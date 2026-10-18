@@ -25,5 +25,5 @@ Hands-on experience with Shopify theme customization, app blocks and embeds,
 and third-party integrations like reviews, quizzes, and loyalty programs.
 
 ## Get in touch
-- LinkedIn: [AchiLes](www.linkedin.com/in/achiles-calilung-28a228208)
+- LinkedIn: [Achiles Calilung](https://www.linkedin.com/in/achiles-calilung-28a228208)
 - Based in the Philippines (PHT, UTC+8), open to remote roles
