@@ -1,4 +1,4 @@
-# Hi, I'm Aki 👋
+# Hi, I'm Achiles (Aki) 👋
 
 Senior Technical Support Specialist transitioning into Shopify development.
 I've spent my career helping merchants solve real store problems, and now
@@ -17,12 +17,13 @@ a custom theme built on Shopify's Skeleton theme, with an editable FAQ section,
 a JavaScript single-open option, and a Lighthouse accessibility score of 100.
 
 ## Currently learning
-- React, next in my roadmap
+- React
 - Shopify app development
 
 ## Background
-Hands-on experience with Shopify theme customization, app blocks and embeds,
-and third-party integrations like reviews, quizzes, and loyalty programs.
+5 years of hands-on experience supporting Shopify merchants: theme
+customization, Liquid troubleshooting, app blocks and embeds, and
+third-party integrations like reviews, quizzes, and loyalty programs.
 
 ## Get in touch
 - LinkedIn: [Achiles Calilung](https://www.linkedin.com/in/achiles-calilung-28a228208)
